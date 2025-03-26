@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffe6f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #ff4d79;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#yes {
+    background-color: #ff66b2;
+    color: white;
+}
+
+#no {
+    background-color: #ff9999;
+    color: white;
+    position: absolute;
+}
